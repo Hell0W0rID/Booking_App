@@ -1,0 +1,11 @@
+Layouts 
+-make cache for layout 
+ create cache map 
+ parse template 
+ render template
+
+Application Wide Configuration
+    set the configuration so once load template then again never load with the help global variables
+
+Share the data within templates        
+    
